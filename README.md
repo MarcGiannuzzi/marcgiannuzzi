@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MarcGiannuzzi/marcgiannuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings 😄 My name is Marc! I'm a tech lover.
 
-Here are some ideas to get you started:
+Some topics I like: Machine Learning, Blockchain, Android, CGI, RaspberryPi, Arduino, Math, & lots of geeky stuff 🔥💻🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub page
+
+Checkout my GitHub page: [https://marcgiannuzzi.github.io](https://marcgiannuzzi.github.io).
+
+### 📎 CV
+
+Check out my CV at [github.com/omaraflak/cv](https://github.com/MarcGiannuzzi/cv/blob/main/Marc_Giannuzzi_CV_English.pdf).
