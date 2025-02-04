@@ -1,12 +1,13 @@
 # Hi there 👋
 
-Greetings 😄 My name is Marc ! I'm a tech lover.
+Greetings 😄 My name is Marc Giannuzzi ! 
+I'm a tech lover.
 
-Some topics I like: Machine Learning, Blockchain, Math, Finance, & lots of geeky stuff 🔥💻🔥
+Some topics I like: Machine Learning, Blockchain, Math, Finance, IoT & lots of geeky stuff 🔥
 
 ### Website 💻
 
-Checkout my simple presentation: [http://marcgiannuzzi.com](http://marc.giannuzzi.com).
+Checkout my simple presentation: [http://marcgiannuzzi.com](http://marcgiannuzzi.com).
 
 ### 📎 CV
 
