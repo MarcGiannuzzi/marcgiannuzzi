@@ -4,9 +4,9 @@ Greetings 😄 My name is Marc ! I'm a tech lover.
 
 Some topics I like: Machine Learning, Blockchain, Math, Finance, & lots of geeky stuff 🔥💻🔥
 
-### GitHub page
+### Website 💻
 
-Checkout my GitHub page: [https://marcgiannuzzi.github.io](https://marcgiannuzzi.github.io).
+Checkout my simple presentation: [http://marcgiannuzzi.com](http://marc.giannuzzi.com).
 
 ### 📎 CV
 
