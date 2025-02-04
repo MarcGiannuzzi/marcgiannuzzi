@@ -2,7 +2,7 @@
 
 Greetings 😄 My name is Marc ! I'm a tech lover.
 
-Some topics I like: Machine Learning, Blockchain, Android, CGI, RaspberryPi, Arduino, Math, & lots of geeky stuff 🔥💻🔥
+Some topics I like: Machine Learning, Blockchain, Math, Finance, & lots of geeky stuff 🔥💻🔥
 
 ### GitHub page
 
