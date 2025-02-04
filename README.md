@@ -14,4 +14,4 @@ Check out my CV on [Github](https://github.com/MarcGiannuzzi/cv/blob/main/Marc_G
 
 ### 🎯 Linkedin
 
-Let's connect on [Linkedin]([https://github.com/MarcGiannuzzi/cv/blob/main/Marc_Giannuzzi_CV_English.pdf](https://www.linkedin.com/in/marc-giannuzzi-b098b216b/)). !
+Let's connect on [Linkedin](https://www.linkedin.com/in/marc-giannuzzi-b098b216b/) !
