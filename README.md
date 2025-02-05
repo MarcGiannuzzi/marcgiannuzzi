@@ -7,7 +7,7 @@ Some topics I like: Machine Learning, Blockchain, Math, Finance, IoT & lots of g
 
 ### Website 💻
 
-Checkout my simple presentation: [http://marcgiannuzzi.com](http://marcgiannuzzi.com).
+Checkout my simple presentation: [https://marcgiannuzzi.com](https://marcgiannuzzi.com).
 
 ### 📎 CV
 
